@@ -116,7 +116,12 @@ This analysis underscores the potential for sustained growth and profitability t
 ## 7. Appendices
 ### 7.1 Supporting Data Visualizations 
 - Monthly revenue and ridership trends.
+  ![image](https://github.com/user-attachments/assets/a63ffde6-c002-4439-9e60-a5a49ff90a02)
+  
+  ![image](https://github.com/user-attachments/assets/39b3fa39-78f8-43a0-a421-0f8a68388080)
+
 - Seasonal and weather impact on ridership.
+  
 
 ### 7.2 Technical Notes and Definitions 
 - **Weathersit**: Categories of weather conditions(clear, rain, snowing).
