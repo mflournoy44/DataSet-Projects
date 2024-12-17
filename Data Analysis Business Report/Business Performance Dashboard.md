@@ -23,7 +23,7 @@
 ### 1. Introduction
 
 #### 1.1 Project Background
-The provided dataset that I have created contains financial data, including sales, profitsm and product performance across various segments, countries, and time periods. The goal of this analysis is I want to uncover actionable insights, evaluate key performance indicators, and provide recommendations for strategic improvements.
+The provided dataset that I have created contains financial data, including sales, profit and product performance across various segments, countries, and time periods. The goal of this analysis is I want to uncover actionable insights, evaluate key performance indicators, and provide recommendations for strategic improvements.
 
 #### 1.2 Executive Summary
 This analysis highlights the following key findings
