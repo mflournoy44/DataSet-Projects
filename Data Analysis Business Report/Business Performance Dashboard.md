@@ -113,4 +113,4 @@ Key recommendations include focusing on high-performing segments, reevaluting th
  1. Revamp Enterprise Strategy: Investigate loss drivers in the Enterprise segment and implement corrective actions such as cost reduction, improved customer targeting, revised product offerings.
  2. Optimize Discounts: Develop dynamic pricing strategies to balance discounts tiers.
  3. Expand Market Reach: Analyze low-performing regions for potential barriers and create tailored strategies to unlock growth.
- 4. Enhance Data Collection: Introduce tracking mechanisms for customer retention, repeat purchasesm, and regional cost structures to refine future strategies. 
+ 4. Enhance Data Collection: Introduce tracking mechanisms for customer retention, repeat purchase, and regional cost structures to refine future strategies. 
